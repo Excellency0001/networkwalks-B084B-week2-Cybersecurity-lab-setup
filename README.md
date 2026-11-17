@@ -29,4 +29,4 @@
 
 
 **curl -I https://networkwalks.com**
-![](curl)
+![](curl.PNG)
