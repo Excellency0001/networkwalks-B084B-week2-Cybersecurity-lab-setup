@@ -26,3 +26,7 @@
 
 **nslookup networkwalks.com**
 ![](nslookup.PNG)
+
+
+**curl -I https://networkwalks.com**
+![](curl)
