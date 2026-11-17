@@ -1,5 +1,5 @@
 # networkwalks-B084B-week2-Cybersecurity-lab-setup
-**Building an isolated virtual lab for penetration testing and ethical hacking practice**
+**Week 2 Reconnaissance**
 </div>
 
 <p align="center">
