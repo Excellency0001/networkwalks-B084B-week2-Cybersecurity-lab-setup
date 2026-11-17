@@ -29,3 +29,6 @@
 
 **curl -I https://networkwalks.com**
 ![](curl.PNG)
+
+**waw00f networkwalks.com**
+![](wafw00f.PNG)
