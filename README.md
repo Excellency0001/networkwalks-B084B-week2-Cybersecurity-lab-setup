@@ -32,3 +32,6 @@
 
 **waw00f networkwalks.com**
 ![](wafw00f.PNG)
+
+**dnsrecon -d networkwalks.com**
+![](dnsrecon.PNG)
