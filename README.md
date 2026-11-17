@@ -20,5 +20,9 @@
 # SCREENSHORT 
 ![](whois.PNG)
 
-**whatweb networkwalks.ng**
+**whatweb networkwalks.com**
 ![](whatweb.PNG)
+
+
+**nslookup networkwalks.com**
+![](nslookup.PNG)
