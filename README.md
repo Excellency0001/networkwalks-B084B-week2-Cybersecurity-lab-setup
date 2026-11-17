@@ -19,3 +19,6 @@
 
 # SCREENSHORT 
 ![](whois.PNG)
+
+**whatweb networkwalks.ng**
+![](whatweb.PNG)
